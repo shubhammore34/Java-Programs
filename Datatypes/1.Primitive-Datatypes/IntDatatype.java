@@ -1,10 +1,9 @@
 public class IntDatatype {
         
     public static void main(String args[]) {
-        System.out.println("Size of int datatype = " + Integer.SIZE + "bits  or  " + Integer.SIZE/8 + "bytes");
-        System.out.println("Max Value int datatype = " + Integer.MAX_VALUE);
-        System.out.println("Min Value int datatype = " + Integer.MIN_VALUE);
-        
+        /*  Size of int datatype = 32bits  or  4bytes
+            Max Value int datatype = 2147483647
+            Min Value int datatype = -2147483648 */
         int a = 10;
         int b = -10;
         
