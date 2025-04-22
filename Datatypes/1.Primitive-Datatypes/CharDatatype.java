@@ -13,8 +13,8 @@ public class CharDatatype {
         char c = '0';
         char d = 'x';
         
-        char e = 100;
-        char f = 65;
+        char e = 100; //d
+        char f = 65; //A
         
         char g = '\u0000';
         char h = '\uFFFF';
