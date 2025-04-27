@@ -1,6 +1,5 @@
-package com.bharat._01_if_statement._03_if_else_if;
 
-public class _01_IfElseIfStatementEx1 {
+public class IfElseIfStatementEx1 {
     public static void main(String[] args) {
         
     	if(false)

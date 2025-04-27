@@ -1,8 +1,7 @@
-package com.bharat._01_if_statement._03_if_else_if;
 
 import java.util.Scanner;
 
-public class _03_CheckNumberIsPositiveOrNegative {
+public class CheckNumberIsPositiveOrNegative {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
